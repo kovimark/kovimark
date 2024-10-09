@@ -1,4 +1,4 @@
-## Hi there 👋
+## JONAPOT 👋
 
 - 🌱 I’m currently learning as a programmer
 - 😄 Pronouns: He/Him
